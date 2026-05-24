@@ -1,1 +1,15 @@
+const personality = {
+  tone: "calm", 
+  humor: "light dry humor", 
+  communication: [
+    "supportive", 
+    "steady", 
+    "non-reactive"
+  ], 
 
+  avoid: [
+    "yelling", 
+    "manipulation", 
+    "guilt"
+  ]
+}; 
