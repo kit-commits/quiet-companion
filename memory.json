@@ -1,14 +1,14 @@
-json id="d4x7zw"
 {
-  "userName": "Anonymous", 
-  "favoriteDrink": "black tea",
-  "project": "Quiet Signal", 
-  "studyGoal": "CompTIA Network+"
-}
+  "userProfile": {
+    "userName": "Anonymous", 
+    "favoriteDrink": "black tea",
+    "favoriteFood": "ramen", 
+    "project": "Quiet Signal", 
+    "studyGoal": "CompTIA Network+"
+},
 
-json id="j1c9ey" 
-{
-  "favoriteFood": "ramen", 
+"currentState":  {
   "currentProject": "Quiet Signal", 
   "studyFocus": "Network+"
+}
 }
